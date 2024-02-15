@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](<iframe src="https://gifer.com/embed/g2dh" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>)
+![Banner](<iframe src="https://gifer.com/embed/g2dh" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe>):
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Pasan Hewavitharana</h1>
