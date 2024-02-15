@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Pasan Hewavitharana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka &#127473;&#127472;</h3>
 
 <!-- Coding Gif -->
 <img align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG14Y3k5YTk1czB4OTN5YW1xaW45bGtwZGtuOXVsMWluNGR0cjEzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
