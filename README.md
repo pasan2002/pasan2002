@@ -27,9 +27,7 @@
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Add your icons and links here -->
-</p>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,firebase,react,mongodb,js,flutter&perline=5)](https://skillicons.dev)
 
 <!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasan2002&show_icons=true&locale=en&layout=compact" alt="pasan2002" /></p>
