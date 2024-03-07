@@ -14,7 +14,7 @@
 
 <!-- Learning and Projects -->
 - 🌱 I’m currently learning **MERN**
-- 👨‍💻 All of my projects are available at [https://merry-hotteok-a6557b.netlify.app/](https://pasanportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pasanportfolio.netlify.app/](https://pasanportfolio.netlify.app/)
 - 💬 Ask me about **Java Script, React, C**
 - 📫 How to reach me: [Email](mailto:batm31768@gmail.com)
 
