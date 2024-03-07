@@ -35,6 +35,6 @@
 </p>
 
 <!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasan2002&show_icons=true&locale=en&layout=compact" alt="pasan2002" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasan2002&show_icons=true&locale=en" alt="pasan2002" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasan2002&" alt="pasan2002" /></p>
+![pasan2002's Stats](https://github-readme-stats.vercel.app/api?username=pasan2002&theme=monokai&show_icons=true&hide_border=false&count_private=false)
+![pasan2002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasan2002&theme=monokai&hide_border=false)
+![pasan2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasan2002&theme=monokai&show_icons=true&hide_border=false&layout=compact)
