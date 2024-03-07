@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVzdmo3cXJtdWlldDk0MzE5OW03bWR3bXlnYWpleDBjb2tqejA5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9urAfGd3grKV6E/giphy.gif" alt="Naruto GIF">
+</div>
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Pasan Hewavitharana</h1>
