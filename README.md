@@ -1,5 +1,3 @@
-<!-- Banner -->
-[![MasterHead](https://i.gifer.com/5TMy.gif)]()
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Pasan Hewavitharana</h1>
@@ -13,9 +11,9 @@
 
 <!-- Learning and Projects -->
 - 🌱 I’m currently learning **MERN**
-- 👨‍💻 All of my projects are available at [https://merry-hotteok-a6557b.netlify.app/](https://merry-hotteok-a6557b.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://merry-hotteok-a6557b.netlify.app/](https://pasanportfolio.netlify.app/)
 - 💬 Ask me about **Java Script, React, C**
-- 📫 How to reach me: [batm31768@gmail.com](mailto:batm31768@gmail.com)
+- 📫 How to reach me: [Email](mailto:batm31768@gmail.com)
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
@@ -27,7 +25,11 @@
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,firebase,react,mongodb,js,flutter&perline=5)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,react,js,c,html,nodejs,mongodb,tailwind,css,github,express" />
+  </a>
+</p>
 
 <!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasan2002&show_icons=true&locale=en&layout=compact" alt="pasan2002" /></p>
