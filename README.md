@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasan2002&label=Profile%20views&color=0e75b6&style=flat" alt="pasan2002" /> </p>
 
 <!-- Learning and Projects -->
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **React and Node js**
 - 👨‍💻 All of my projects are available at [https://pasanportfolio.netlify.app/](https://pasanportfolio.netlify.app/)
 - 💬 Ask me about **Java Script, React, C**
 - 📫 How to reach me: [Email](mailto:batm31768@gmail.com)
