@@ -14,7 +14,7 @@
 
 <!-- Learning and Projects -->
 - 🌱 I’m currently learning **React and Node js**
-- 👨‍💻 All of my projects are available at [https://file-uploading-gamma.vercel.app/](https://file-uploading-gamma.vercel.app/)](https://pasanportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pasanportfolio.app/](https://file-uploading-gamma.vercel.app/)
 - 💬 Ask me about **Java Script, React, C**
 - 📫 How to reach me: [Email](mailto:batm31768@gmail.com)
 
