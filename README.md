@@ -6,6 +6,10 @@
 <h1 align="center">Hi 👋, I'm Pasan Hewavitharana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka &#127473;&#127472;</h3>
 
+<!--GitHub Trophies -->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=pasan2002&theme=gruvbox)](https://github.com/pasan2002/github-profile-trophy)
+
+
 <!-- Coding Gif -->
 <img align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG14Y3k5YTk1czB4OTN5YW1xaW45bGtwZGtuOXVsMWluNGR0cjEzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
 
@@ -38,3 +42,5 @@
 ![pasan2002's Stats](https://github-readme-stats.vercel.app/api?username=pasan2002&theme=monokai&show_icons=true&hide_border=false&count_private=false)
 ![pasan2002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasan2002&theme=monokai&hide_border=false)
 ![pasan2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasan2002&theme=monokai&show_icons=true&hide_border=false&layout=compact)
+
+
