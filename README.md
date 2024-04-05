@@ -19,7 +19,7 @@
 
 <!-- Learning and Projects -->
 - 🌱 Currently learning **React and Node.js**
-- 👨‍💻 All of my projects are available at [Pasan's Portfolio](https://pasanportfolio.app/)
+- 👨‍💻 All of my projects are available at [Pasan's Portfolio](https://file-uploading-gamma.vercel.app/)
 - 💬 Ask me about **JavaScript, React, C**
 - 📫 Reach me via [Email](mailto:batm31768@gmail.com)
 
