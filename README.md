@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <h1 align="center">Hi there, I'm Pasan Hewavitharana 👋</h1>
-<h3 align="center">Passionate Frontend Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">Passionate Developer from Sri Lanka 🇱🇰</h3>
 
 <!-- GitHub Trophies -->
 <div align="center">
