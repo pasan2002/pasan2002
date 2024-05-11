@@ -30,7 +30,7 @@
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,react,js,c,html,nodejs,mongodb,tailwind,css,github,express" alt="Languages and Tools">
+  <img src="https://skillicons.dev/icons?i=py,react,js,c,html,nodejs,mongodb,tailwind,css,github,express,java" alt="Languages and Tools">
 </p>
 
 <!-- GitHub Stats -->
