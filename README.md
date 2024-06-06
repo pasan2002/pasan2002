@@ -39,6 +39,5 @@
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pasan2002&theme=monokai&show_icons=true&hide_border=false&count_private=false" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasan2002&theme=monokai&hide_border=false" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasan2002&theme=monokai&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
 </div>
