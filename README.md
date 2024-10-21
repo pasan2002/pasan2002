@@ -33,7 +33,7 @@
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,react,js,c,html,nodejs,mongodb,tailwind,css,github,express,java,mysql,php,aws,vite,vercel" alt="Languages and Tools">
+  <img src="[https://skillicons.dev](https://skillicons.dev)/icons?i=py,react,js,c,html,nodejs,mongodb,tailwind,css,github,express,java,mysql,php,aws,vite,vercel,postman,vscode" alt="Languages and Tools">
 </p>
 
 <!-- GitHub Stats -->
