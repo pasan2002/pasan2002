@@ -18,6 +18,7 @@
 - 🎯 2024 Goals: Contribute more to Open Source projects
 - 📚 Constantly learning and improving my skills
 - 🎨 Portfolio: [Check out my work](https://file-uploading-gamma.vercel.app/)
+- 👨‍💻 LeetCode : [https://leetcode.com/u/pasan2002/]
 - 📧 Reach me at: [batm31768@gmail.com](mailto:batm31768@gmail.com)
 
 <!-- Tech Stack -->
