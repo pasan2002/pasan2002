@@ -10,7 +10,7 @@
 
 <!-- About Me -->
 ## 👨‍💻 About Me
-<img align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG14Y3k5YTk1czB4OTN5YW1xaW45bGtwZGtuOXVsMWluNGR0cjEzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif">
+<img align="right" width="400" height = "250em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG14Y3k5YTk1czB4OTN5YW1xaW45bGtwZGtuOXVsMWluNGR0cjEzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif">
 
 - 🚀 Full Stack Developer from Sri Lanka 🇱🇰
 - 🌱 Currently mastering **React** and **Node.js**
