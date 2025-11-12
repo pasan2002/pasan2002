@@ -67,12 +67,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasan2002&theme=monokai&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
 </div>
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pasan2002&theme=gruvbox&column=7" alt="GitHub Trophies"/>
-</div>
-
 <!-- Connect with me -->
 ## 🤝 Connect with Me
 <p align="center">
