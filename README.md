@@ -9,20 +9,20 @@
 </div>
 
 <!-- About Me -->
-## 👨‍💻 About Me
+## About Me
 <img align="right" width="400" height = "250em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG14Y3k5YTk1czB4OTN5YW1xaW45bGtwZGtuOXVsMWluNGR0cjEzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif">
 
-- 🚀 Full Stack Developer from Sri Lanka 🇱🇰
-- 🌱 Currently mastering **React** and **Node.js**
-- 💼 Open to collaborating on interesting projects
-- 🎯 2024 Goals: Contribute more to Open Source projects
-- 📚 Constantly learning and improving my skills
-- 🎨 Portfolio: [Check out my work](https://file-uploading-gamma.vercel.app/)
-- 👨‍💻 LeetCode : [Check out my profile](https://leetcode.com/u/pasan2002/)
-- 📧 Reach me at: [batm31768@gmail.com](mailto:batm31768@gmail.com)
+- Full Stack Developer from Sri Lanka 🇱🇰
+- Currently mastering **React** and **Node.js**
+- Open to collaborating on interesting projects
+- 2025 Goals: Contribute more to Open Source projects
+- Constantly learning and improving my skills
+- Portfolio: [Check out my work](https://file-uploading-gamma.vercel.app/)
+- LeetCode : [Check out my profile](https://leetcode.com/u/pasan2002/)
+- Reach me at: [batm31768@gmail.com](mailto:batm31768@gmail.com)
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -32,12 +32,14 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java&logoColor=white)
 
+
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
 
 ### IoT & Embedded Systems
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -56,7 +58,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasan2002&theme=monokai" alt="GitHub Streak Stats" />
