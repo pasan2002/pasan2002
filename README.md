@@ -16,7 +16,7 @@ I am a Full Stack Developer based in Sri Lanka with interests in backend develop
 
 My current areas of development include React, Node.js, supervised and unsupervised learning fundamentals, and Linux-based cybersecurity practices.
 
-**Portfolio:** https://file-uploading-gamma.vercel.app/  
+**Portfolio:** https://www.pasanHewavitharana.site  
 **LeetCode:** https://leetcode.com/u/pasan2002/  
 **Email:** batm31768@gmail.com
 
