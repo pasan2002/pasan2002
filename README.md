@@ -66,38 +66,6 @@ My current areas of development include React, Node.js, supervised and unsupervi
 - Vite  
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=pasan2002&theme=monokai&hide_border=false" 
-    alt="GitHub Streak Stats" 
-  />
-
-</div>
-
-<div align="center">
-
-  <!-- GitHub General Stats -->
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=pasan2002&show_icons=true&theme=monokai&count_private=true" 
-    alt="GitHub Stats" 
-  />
-
-  <!-- Top Languages -->
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasan2002&layout=compact&theme=monokai" 
-    alt="Top Languages" 
-  />
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
